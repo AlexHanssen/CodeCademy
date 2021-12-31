@@ -1,0 +1,19 @@
+table,
+td,
+th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 3px;
+}
+
+.title {
+  text-align: center;
+  font-size: 30px;
+}
+
+.tag {
+  text-align: center;
+}
+th {
+  background-color: rgb(120, 148, 190);
+}
